@@ -1,0 +1,35 @@
+# Игнорирование системных директорий
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+# Игнорирование пользовательских директорий
+../Documents/
+../Downloads/
+../Favorites/
+../Links/
+../Music/
+../OneDrive/
+../Pictures/
+../Saved Games/
+../Searches/
+../Videos/
+
+# Игнорирование файлов конфигурации и истории
+../.bash_history
+../.config/
+../.gitconfig
+../.lesshst
+../.ssh/
+../.vscode/
+../.vscode-insiders/
+../AppData/
+
+# Игнориров
