@@ -9,4 +9,4 @@ function calculateSumOfSquares(addressLat, positionLat, addressLong, positionLon
 
    return sumOfSquares;
  }
- 
+ // комментарий
